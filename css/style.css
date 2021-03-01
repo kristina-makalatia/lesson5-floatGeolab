@@ -1,0 +1,63 @@
+/*base classes*/
+.container {
+	width: 1170px;
+	margin: 30px auto;
+}
+.clear {
+	clear: both;
+}
+.f-left {
+	float: left;
+}
+.f-right {
+	float: right;
+}
+/*header styles*/
+.nav-li {
+	margin-right: 30px;
+}
+.text {
+	width: 600px;
+}
+
+/*article-section*/
+.section-bg {
+	background-color: #E6E6E6;
+}
+.left-block {
+	width: 570px;
+	background-color: #F2F2F2;
+	margin-right: 29px;
+}
+.right-block {
+	width: 570px;
+	background-color: lightblue;
+}
+.article-image {
+	float: left;
+	margin-right: 60px;
+}
+.article-text {
+	float: left;
+	width: 355px;
+}
+.read {
+	float: right;
+	margin-right: 30px;
+}
+
+/*images-section*/
+.section-bg2 {
+	background-color: #BDCCD4;
+}
+.box-image {
+	margin-right: 30px;
+}
+
+/*section#4*/
+.text-wraper2 {
+	width: 750px;
+}
+.image-wraper2 {
+	float: left;
+}
